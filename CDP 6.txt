@@ -1,0 +1,6 @@
+1. Crear metodos con anotaciones @beforesuite/aftersuite
+2. Crear metodos con anotaciones @beforetest/aftertest
+3. Crear metodos con anotaciones @Beforeclass/Afterclass
+4. Crear metodos con anotaciones @BeforeMethod/AfterMethod
+5. crear metodos con anotacion @test
+6. Ejecutar el codigo y revisar los resultados

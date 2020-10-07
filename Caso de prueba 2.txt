@@ -1,0 +1,13 @@
+1. Abrir chrome
+2. Navegar a live.guru99.com/index.php/tv.html
+3 clic en el link "TV"
+4. Agregar al carrito de compras "LG LCD"
+5. Verificar el subtotal
+5.1 El subtotal debe ser 615.00
+
+Codigo de selenium estara basado en:
+1. navega a la pagina de e-commerce
+2. click en el link tv utilizando el locator link
+3. usa css selector para dar click en el boton add to cart
+4. Imprime en consola el resultado de la comparacion del titulo obtenido contra el resultado esperado
+5. Cierra el navegador

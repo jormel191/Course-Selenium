@@ -1,0 +1,10 @@
+1. navegar a la pagina new tour
+2. Click en register
+3. Escribir un texto en first name
+4. limpiar el campo first name
+5. saleccionar un país de la lista
+6. ingresar los campor obligatorios
+7. dar submit para enviar formularios
+8. Verificar que exista un mensaje de registro
+9. Cerrar navegador
+

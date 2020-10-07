@@ -1,0 +1,8 @@
+1. Navegar a la pagina
+2. antes de cada prueba verifica el titulo de la pagina principal
+3. Dar clic en link "register"
+4. Dar clic en link "Support"
+5. Despues de cada prueba da clic en el link "home"
+6. Ordena los casos de prueba
+7. Cierra el navegador antes de terminar
+8. Verificar los resultados de testNG

@@ -1,0 +1,36 @@
+Forma de crear un xpath---- para input
+//input[@name="pass"]
+
+-------------
+//input[@type='password']
+
+-------------
+//*[@class="_8e4m _3m9 mbl _6o _6s _mf"]
+
+--------------------
+//*[contains(@name,'last')]
+
+----------------- Para botones-------
+//*[contains(@type,'sub')]
+
+----------------Para encontrar el texto exacto así como esta--------
+//label[text()='Mujer']
+
+
+//button[text()='Registrarte'] Encontrar un boton exacto
+
+-------------------------------------------------------------------------------
+Creando Css selector
+
+html>body>div.wrap>div.sign-up>div>div>div>a
+
+--------- Creando css por ID
+
+input#register-email
+
+----------Cuando css por class
+input.thirdparty
+
+--------- Libreria de 
+
+https://selenium.dev/selenium/docs/api/java/org/openqa/selenium/support/ui/ExpectedConditions.html

@@ -1,0 +1,9 @@
+1. Navega a la pagina https://www.w3schools.com/js/tryit.asp?filename=tryjs_prompt
+2. Cambiar iframe del boton try
+3. Esperar que se pueda dar clic en el boton
+4. clic en el boton try
+5. Esperar que se muestre la alerta
+6.Obtener texto de la alerta
+7. Escribir sobre la alerta y cerrarla
+8.Obtener texto mostrado de la pagina
+9. Verificar el texto ingresado en el paso 7

@@ -1,0 +1,25 @@
+Precondicion
+1. Abrir el navegador
+2. Navegar a la pagina "demo tours"
+Aquí se coloca la anotacion 
+-------------------------------------------------@BeforeTest
+
+Pasos
+En los pasos de coloca la anotación
+-------------------------------------------------@BeforeMethod
+1. Verificar el titulo de la pagina principal
+2. Clic en link REGISTER
+3. Verificar el titulo de la pagina register
+
+Paso para otro caso paralelo
+1. Verificar el titulo de la pagina principal
+2. Clic en link SUPPORT
+3. Verificar el titulo de la pagina SUPPOR
+
+Resultado esperado
+El titulo debe ser ""
+
+Post condicion 
+Aquí se coloca el 
+---------------------------------------------------@Aftermethod
+Clic en link HOME

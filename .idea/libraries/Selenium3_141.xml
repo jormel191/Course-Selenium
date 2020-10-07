@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Selenium3.141">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LIB/Selenium3.141/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LIB/Selenium3.141/guava-25.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LIB/Selenium3.141/client-combined-3.141.59-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LIB/Selenium3.141/client-combined-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LIB/Selenium3.141/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LIB/Selenium3.141/okhttp-3.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LIB/Selenium3.141/okio-1.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
